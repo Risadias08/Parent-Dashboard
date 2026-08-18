@@ -1,0 +1,11 @@
+{
+  "course_count": 40,
+  "courses_per_page": 8,
+  "sort_options": [
+    "price-low",
+    "price-high",
+    "rating-high",
+    "rating-low"
+  ],
+  "example_query_matches": 3
+}
